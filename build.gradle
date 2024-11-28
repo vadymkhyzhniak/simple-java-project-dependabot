@@ -10,7 +10,7 @@ dependencies {
     // Add outdated dependencies
     implementation 'org.springframework:spring-core:4.3.0.RELEASE'
     implementation 'com.google.guava:guava:28.0-jre'
-    implementation 'org.apache.commons:commons-lang3:3.4'
+    implementation 'org.apache.commons:commons-lang3:3.17.0'
     implementation 'com.fasterxml.jackson.core:jackson-databind:2.18.2'
     implementation 'junit:junit:4.13.2'
 }
