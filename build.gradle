@@ -8,8 +8,8 @@ repositories {
 
 dependencies {
     // Add outdated dependencies
-    implementation 'org.springframework:spring-core:6.2.0'
-    implementation 'com.google.guava:guava:33.3.1-jre'
+    implementation 'org.springframework:spring-core:4.3.0.RELEASE'
+    implementation 'com.google.guava:guava:28.0-jre'
     implementation 'org.apache.commons:commons-lang3:3.4'
     implementation 'com.fasterxml.jackson.core:jackson-databind:2.9.9.1'
     implementation 'junit:junit:4.3'
